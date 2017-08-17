@@ -1,0 +1,10 @@
+{"payload": {
+  "data" :{
+    "text_1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac lectus augue. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam suscipit, quam eget vulputate dictum, massa lacus tristique dui, non pharetra ex quam a mauris. Cras dolor urna, lobortis non risus quis, ultricies luctus tellus. Maecenas id dolor varius, auctor massa eu, dictum nibh. Vivamus ut est quis enim blandit suscipit faucibus in purus. Sed eget felis sed dui dignissim fermentum. Maecenas et turpis tempus, auctor mi eu, pellentesque mauris. Phasellus feugiat sem consectetur ornare consectetur. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse lorem massa, gravida eget diam at, consectetur condimentum sapien. In at nisl finibus, accumsan arcu a, ornare ligula. Vivamus mauris neque, consequat vel gravida id, dictum non urna.",
+    "text_2": "Maecenas consectetur augue at metus volutpat, quis imperdiet turpis lobortis. Nullam gravida cursus rutrum. Donec et dolor ut nulla vestibulum vestibulum pharetra eu massa. Vivamus dictum porta nisi. Morbi consequat sodales aliquet. Suspendisse at risus leo. Morbi vehicula, enim sed blandit maximus, arcu ipsum sollicitudin magna, in dapibus libero metus at nisl. Maecenas et tempus purus. Sed pellentesque, enim vitae laoreet porttitor, felis sapien sagittis nunc, sed lacinia quam massa vel urna. Vestibulum vel lacus mauris. Ut placerat magna porttitor erat elementum mattis. Duis a purus sit amet dolor cursus pharetra. Quisque interdum interdum augue faucibus rhoncus. Sed vitae fringilla nibh. Suspendisse eget mauris vitae neque elementum aliquam vitae ac dui. Aliquam ante enim, pretium id congue eget, porta vel orci.",
+    "images": [
+      {"src": "images/1.jpg"},
+      {"src": "images/2.jpg"}
+    ]
+  }
+}}

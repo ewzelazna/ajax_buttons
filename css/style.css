@@ -1,0 +1,87 @@
+body, h1, h2, h3, p, a, img, ul {
+	color: #000;
+	margin: 0;
+	padding: 0;
+}
+
+.section_one {
+	float: left;
+	width: 75%;
+	margin-top: 20px;
+}
+ 
+.section_one table {
+	border-collapse: collapse;
+	margin: 0 auto 30px;
+}
+
+.section_one th,
+.section_one td {
+	padding: 10px;
+	text-align: left;
+	font-size: 12px;
+}
+
+.section_one tbody tr:nth-child(odd) {
+	background-color: #efe2ff;
+}
+
+.section_one p {
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+.section_one ul {
+	padding-left: 10%;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.section_one .btn {
+    width: 100px;
+    border-radius: 20px;
+    margin: 0 auto;
+    line-height: 40px;
+    height: 40px;
+}
+
+.section_one .btn_view_less,
+.section_one .btn_view_more  {
+    margin-top: 20px;
+}
+
+.section_one .photos img {
+	width: 48%;
+	margin: 1%;
+}
+
+.section_one .text,
+.section_one .photos {
+	width: 60%;
+	margin: 0 auto;
+	padding: 0;
+}
+
+.section_two {
+	width: 25%;
+	float: right;
+}
+
+.list {
+	text-align: center;
+	height: 60px;
+	cursor: pointer;
+	background-color: #d2afff;
+	font-size: 16px;
+	list-style: none;
+	vertical-align: middle;
+    line-height: 60px;
+    border-style: outset;
+}
+
+.list:hover {
+	background-color: #9b05ff;
+	color: #fff;
+}
+
+
